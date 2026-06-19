@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <PsychicHttp.h>
 
-const char* ap_ssid = "kir_lan_4";
-const char* ap_password = "Pasha01061975";
+const char* ap_ssid = "WIFI";
+const char* ap_password = "PasswordWIFI";
 
 #define PIR_PIN 14
 #define RED_LED 17
